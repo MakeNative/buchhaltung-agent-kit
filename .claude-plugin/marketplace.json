@@ -1,7 +1,7 @@
 {
   "name": "buchhaltung-agent-kit",
   "description": "Marketplace für das buchhaltung-kit Plugin: Agenten-Pipeline für die Umsatzsteuer-Voranmeldung.",
-  "owner": { "name": "ceichmueller" },
+  "owner": { "name": "MakeNative" },
   "plugins": [
     {
       "name": "buchhaltung-kit",
